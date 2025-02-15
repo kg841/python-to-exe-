@@ -1,0 +1,10 @@
+pip install pyinstaller 
+pyinstaller --onefile -w yourScrptName
+
+or you can use this : 
+
+pip install auto-py-to-exe
+run "auto-py-to-exe" and use it.
+
+
+
